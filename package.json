@@ -1,0 +1,24 @@
+{
+  "dependencies": {},
+  "devDependencies": {
+    "translation.js": "^0.7.5"
+  },
+  "name": "translate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "bbb":"node ./build/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QiShaoXuan/translateJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QiShaoXuan/translateJs/issues"
+  },
+  "homepage": "https://github.com/QiShaoXuan/translateJs#readme",
+  "description": ""
+}
