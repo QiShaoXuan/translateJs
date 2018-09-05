@@ -2,6 +2,8 @@
 
 将translate目录中的js里的中文label翻译为英文并存在name中
 
+路径配置在`./build/config.js`中
+
 ### 运行
 
 `npm run build`

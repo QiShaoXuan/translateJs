@@ -1,6 +1,6 @@
 export default {
     label: '环评测试',
-    name: '',
+    name: 'test',
     type: 'tab',//ajflkja
     children: [
         {

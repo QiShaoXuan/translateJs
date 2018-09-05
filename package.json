@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "bbb":"node ./build/index.js"
+    "build":"node ./build/index.js"
   },
   "repository": {
     "type": "git",

@@ -1,5 +1,5 @@
 const config = {
-    dir:'../translate'
+    dir:'./translate'
 }
 
 module.exports = config
