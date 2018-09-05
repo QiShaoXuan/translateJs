@@ -8,3 +8,7 @@
 
 `npm run build`
 
+### 翻译插件
+
+| https://github.com/Selection-Translator/translation.js
+
